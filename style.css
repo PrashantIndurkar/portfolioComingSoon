@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap');
+
+body{
+    font-family: poppins;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    background-color: #cbdcffcc;
+    font-size: 2.7rem;
+}
+h1{
+    word-spacing: 0.3rem;
+    letter-spacing: 0.1rem;
+}
